@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1437602466519.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FF477B8A",
+    "lastKnownWriteTime" : 13229740524830817,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ActivityLabels",
+        "contentUrl" : "content?title=ActivityLabels&file=525804712fc74df1a18459dcf57086c0.htm",
+        "displayedObservations" : 6,
+        "displayedVariables" : 2,
+        "totalObservations" : 6,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

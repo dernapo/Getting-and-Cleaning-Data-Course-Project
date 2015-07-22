@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1437598359247.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DF9CA451",
+    "lastKnownWriteTime" : 32651513914720351,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "tidy",
+        "contentUrl" : "content?title=tidy&file=3a7afb44a3b64e21b7587694392bd6b9.htm",
+        "displayedObservations" : 180,
+        "displayedVariables" : 68,
+        "totalObservations" : 180,
+        "variables" : 68
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

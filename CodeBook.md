@@ -51,6 +51,10 @@ Here are described the different variables of the new data set:
 |Time-Gravity-Acc-Mean-X|
 |...|
 
+### Units of the measuremments
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope.
+- A 64-feature vector with time and frequency domain variables.
 
 ## Data
 The `tidy.txt` contains 180 observations (30 subjects x 6 activities) and 68 variables (1 subject, 1 activity and 66 measurements)

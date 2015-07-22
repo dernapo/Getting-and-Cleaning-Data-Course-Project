@@ -1,0 +1,18 @@
+{
+    "contents" : "# Getting and Cleaning Data Course Project\n\n## Introduction\nThis repository contains the content of the project of \"Getting and cleaning data\" part of the Data Science specialization (Johns Hopkins on Coursera Platform)\n\n## Files on repo\nThe following files can be found on this repository:   \n1. `run_analysis.R` -> Only script of the project. It transforms the original data set on a new tidy data set  \n2. `CodeBook.md` ->  code book that describes the variables, the data, and transformations performed to clean up the data  \n3. `Tidy.txt` -> file that includes a new tidy data set  \n\n## Raw data\nData comes from the following source:\nhttps://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip\n\n## Instructions\nFollow the following steps to get the tidy data:  \n\n1. Download and unzip raw data on folder `UCI HAR Dataset`. Folder must be placed on your Working Directory:\n2. Place run_analysis.R script on your Working Directory.  \n3. Call script on R Studio:\n```{r}\nsource(\"run_analysis.R\")\n```\nAs a result the script will create a new file `tidy.txt` on your Working Directory that includes the tidy data (dimension 180x68).",
+    "created" : 1437593614527.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "966246738",
+    "id" : "8A3D8665",
+    "lastKnownWriteTime" : 1437601060,
+    "path" : "C:/Users/Javier/Desktop/Coursera_DataCleaning/Project/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "ignored_words" : "https,qusza,orc,cloudfront,getdata,Fprojectfiles,Dataset,Coursera\n",
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
