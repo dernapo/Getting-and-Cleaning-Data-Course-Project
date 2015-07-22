@@ -27,14 +27,16 @@ Here are described the different variables of the new data set:
 
 * `Subject` column includes numbers from 1 to 30, representing each of the 30 persons that took part of the experiment.  
 * `Activity` column includes 6 different activities that were performed by the subjects  
-
-|#|Activities|  
-|1|WALKING|  
-|2|WALKING_UPSTAIRS|  
-|3|WALKING_DOWNSTAIRS|  
-|4|SITTING|  
-|5|STANDING|  
-|6|LAYING|  
+```
+> ActivityLabels
+  V1                 V2
+1  1            WALKING
+2  2   WALKING_UPSTAIRS
+3  3 WALKING_DOWNSTAIRS
+4  4            SITTING
+5  5           STANDING
+6  6             LAYING  
+```
 
 * Measurements (66 columns) of the subjects doing different activities are added. Measurements include Mean and Standard Deviations that are values between -1 and 1.
 
