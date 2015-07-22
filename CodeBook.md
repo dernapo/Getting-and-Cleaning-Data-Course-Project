@@ -29,7 +29,6 @@ Here are described the different variables of the new data set:
 * `Activity` column includes 6 different activities that were performed by the subjects  
 
 |#|Activities|  
-|-|---|
 |1|WALKING|  
 |2|WALKING_UPSTAIRS|  
 |3|WALKING_DOWNSTAIRS|  
